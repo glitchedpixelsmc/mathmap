@@ -1,0 +1,9 @@
+- Randomizer to pick a math problem
+- Command Block Prints to /title
+- Player solves before going on
+- To open chest, player must first solve a math problem
+- Solve correctly to move on
+- If solved incorrectly, punish player by restinging location (teleporting back to checkpoint) or Slowness and
+ Instant Damage & More mobs
+- Assignment due Mon, Jun 6, 2016
+- Presented as a minecraft server
